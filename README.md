@@ -5,7 +5,7 @@
 
 
 ### Languages
-![Python](https://img.shields.io/badge/-Python-yellow) ![C#](https://img.shields.io/badge/-C%23-blue) ![SQLite](https://img.shields.io/badge/-SQLite-lightgrey) ![GDScript](https://img.shields.io/badge/-GDScript-darkblue) ![English](https://img.shields.io.badge/-English-pink)
+![Python](https://img.shields.io/badge/-Python-yellow) ![C#](https://img.shields.io/badge/-C%23-blue) ![SQLite](https://img.shields.io/badge/-SQLite-lightgrey) ![GDScript](https://img.shields.io/badge/-GDScript-darkblue) 
 
 ### Featured Projects
 - [TowFan](https://github.com/AntarcticMatt/TowFan) - Tower Defense game
