@@ -4,7 +4,7 @@
 -  Fun fact: Being tall gets really bad past a point. Stop before that if you can.
 
 
-### Tech Stack
+### Languages
 ![Python](https://img.shields.io/badge/-Python-yellow) ![C#](https://img.shields.io/badge/-C%23-blue) ![SQLite](https://img.shields.io/badge/-SQLite-lightgrey) ![GDScript](https://img.shields.io/badge/-GDScript-darkblue)
 
 ### Featured Projects
