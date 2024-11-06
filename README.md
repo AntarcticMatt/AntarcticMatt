@@ -5,7 +5,7 @@
 
 
 ### 🛠 Tech Stack
-![Python](https://img.shields.io/badge/-Python-yellow) ![C#](https://img.shields.io/badge/-C%23-blue) ![.NET](https://img.shields.io/badge/-.NET-informational) ![MAUI](https://img.shields.io/badge/-MAUI-blue) ![SQLite](https://img.shields.io/badge/-SQLite-lightgrey) ![GDScript](https://img.shields.io/badge/-GDScript-darkblue)
+![Python](https://img.shields.io/badge/-Python-yellow) ![C#](https://img.shields.io/badge/-C%23-blue) ![SQLite](https://img.shields.io/badge/-SQLite-lightgrey) ![GDScript](https://img.shields.io/badge/-GDScript-darkblue)
 <!---
 AntarcticMatt/AntarcticMatt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
